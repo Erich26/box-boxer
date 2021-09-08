@@ -1,9 +1,40 @@
 div {
-  background-color: red;
-  width: 65px;
-  height: 65px;
-  border: 1px solid black;
-  margin-left: 10px;
-  background-clip: content-box;
-}
+    background-color: red;
+    width: 65px;
+    height: 75px;
+    border: 1px solid black;
+    margin-left: 5px;
+    background-clip: content-box;
+  }
+
+  #first {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+
+  #second {
+    margin-top: 50px;
+    padding-top: 25px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-bottom: 25px;
+  }
+
+  #third {
+    margin-top: 8px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 23px;
+    padding-right: 23px;
+  }
+
+  #fourth {
+    margin-top: 60px;
+    padding-top: 13px;
+    padding-bottom: 28px;
+    padding-left: 130px;
+    padding-right: 75px;
+  }
 
